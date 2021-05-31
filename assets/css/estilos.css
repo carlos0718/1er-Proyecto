@@ -76,6 +76,12 @@ p, a {font-weight: 400;}
   background-color: #6266ea !important;
   /* las rayas de abajo del carrousel van de color azul */
 }
+.form{
+  margin: 3rem 10rem;
+}
+.project img{
+  height: 13.5rem;
+}
 .service-wrapper .service-footer {
   max-width: 720px;
 }
